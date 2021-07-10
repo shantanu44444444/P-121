@@ -1,0 +1,116 @@
+body {
+    background: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6);
+    font-family: 'Nothing You Could Do';
+    font-size: 22px;
+    font-weight: bold;
+}
+
+body:hover{
+
+    background: linear-gradient(to right, #ACB6E5, #74ebd5);
+    
+}
+
+.header_div {
+    background-color: white;
+    color: red;
+}
+
+.header_div img {
+    width: 100px;
+}
+
+.main_div {
+    background-color: #ffd2cf;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.main_div label {
+    background-color: white;
+    width: 310px;
+    padding: 10px;
+    box-shadow: 5px 5px 18px white;
+    margin-bottom: 0px;
+}
+
+#camera {
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.main_div button {
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+}
+
+#result {
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.footer_div {
+    margin-bottom: 50px;
+}
+
+.footer_div h4 {
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.footer_div img {
+    width: 70px;
+}
+
+.copywright_footer {
+    position: fixed;
+    color: #6c757d;
+    bottom: 0px;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+}
+
+img {
+    height: 310px;
+    width: 310px;
+    border-radius: 20px;
+    border-color: white;
+    border-width: 2px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#JFF {
+    height: 100px;
+    width: 90px;
+}
+
+#intro {
+    height: 44px;
+    width: 500px;
+    font-size: 22px;
+}
+
+.btn-success:hover {
+    background-image: linear-gradient(135deg, #81FBB8 10%, #28C76F 100%);
+    color: black;
+}
+
+#jj {
+    width: 2000px;
+}
+
+#hh{
+    font-size: 22px;
+}
